@@ -1,7 +1,6 @@
 import random
 
 def print_dots(count=1):
-    """Prints a specified number of dots."""
     print('.' * count)
 
 def toss():
