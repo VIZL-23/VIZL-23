@@ -59,4 +59,9 @@ I’m a beginner with a foundational understanding of tech skills, eager to lear
 
 ---
 
-<p align="center">✌️</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishal narayan v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal narayan v" height="30" width="40" /></a>
+<a href="https://instagram.com/vizl_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vizl_23" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vishalnarayan238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vishalnarayan238" height="30" width="40" /></a>
+</p>
