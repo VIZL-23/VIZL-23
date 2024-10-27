@@ -45,7 +45,7 @@ I’m a beginner with a foundational understanding of tech skills, eager to lear
     </td>
     <td align="center">
       <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://camo.githubusercontent.com/4df67d15137e3249dea2f205c17bec1a431cde357ee2a036e707264efec4fc99/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d69646561 alt="jetbrains" width="40" height="40"/> 
+        <img src="https://camo.githubusercontent.com/4df67d15137e3249dea2f205c17bec1a431cde357ee2a036e707264efec4fc99/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d69646561" alt="jetbrains" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
