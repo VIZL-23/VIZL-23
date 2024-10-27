@@ -45,12 +45,12 @@ I’m a beginner with a foundational understanding of tech skills, eager to lear
     </td>
     <td align="center">
       <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/JetBrains_Logo.svg" alt="jetbrains" width="40" height="40"/> 
+        <img src="https://camo.githubusercontent.com/4df67d15137e3249dea2f205c17bec1a431cde357ee2a036e707264efec4fc99/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d69646561 alt="jetbrains" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
       <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.w3schools.com/images/w3schools_logo_4.svg" alt="w3schools" width="40" height="40"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7walZHqtuksQQ4SUPHAlwLvUmL688mOJv3Q&s" alt="w3schools" width="40" height="40"/> 
       </a>
     </td>
   </tr>
