@@ -8,9 +8,8 @@
 
 ### 💌 How to reach me:
 <p align="center">
-  📧 **Email**: [vishalnarayan2386@gmail.com](mailto:vishalnarayan2386@gmail.com)
+  📧 <strong>Email</strong>: <a href="mailto:vishalnarayan2386@gmail.com">vishalnarayan2386@gmail.com</a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools:
