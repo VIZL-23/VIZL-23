@@ -56,9 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vizl-23&show_icons=true&locale=en" alt="vizl-23" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vizl-23&" alt="vizl-23" />
 </p>
